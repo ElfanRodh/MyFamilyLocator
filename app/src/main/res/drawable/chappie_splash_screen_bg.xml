@@ -2,12 +2,12 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:drawable="@color/splashColorPrimaryDark"/>
+        android:drawable="@color/lightGrey"/>
 
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/chappie_logo_text_image"/>
+            android:src="@drawable/icon_location"/>
     </item>
 
 </layer-list>

@@ -79,9 +79,6 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
     private FamilyMember familyMember;
     private BitmapDescriptor marker;
 
-    private FloatingActionMenu menu;
-    private FloatingActionButton zoomIn;
-    private FloatingActionButton zoomOut;
     private int zoomLevel;
     private CameraUpdate camera;
     private LatLng location;
@@ -101,10 +98,6 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
-
-        menu = (FloatingActionMenu) findViewById(R.id.maps_fab_menu);
-        zoomIn = (FloatingActionButton) findViewById(R.id.menu_item_zoom_in);
-        zoomOut = (FloatingActionButton) findViewById(R.id.menu_item_zoom_out);
 
         familyMemberUid = getIntent().getStringExtra(Constants.FAMILY_MEMBER_UID_STRING_EXTRA);
         reference = FirebaseUtils.getFamilyRef();
@@ -164,7 +157,6 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
             public void onMapClick(LatLng latLng) {
                 if (!isToolbarHidden) {
                     ObjectAnimator ABLTranslationOut = ObjectAnimator.ofFloat(appBarLayout, "translationY", 0f, -toolbar.getBottom());
-                    ObjectAnimator FABAlphaOut = ObjectAnimator.ofFloat(menu, "alpha", 1.0f, 0.0f);
 
                     AnimatorSet outAnimatorSet = new AnimatorSet();
                     outAnimatorSet.playTogether(ABLTranslationOut);
@@ -176,7 +168,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
 
                         @Override
                         public void onAnimationEnd(Animator animation) {
-                            menu.setVisibility(View.GONE);
+
                         }
 
                         @Override
@@ -199,7 +191,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
                     inAnimatorSet.addListener(new Animator.AnimatorListener() {
                         @Override
                         public void onAnimationStart(Animator animation) {
-                            menu.setVisibility(View.VISIBLE);
+
                         }
 
                         @Override
@@ -244,25 +236,6 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
                 Toast.makeText(MapsActivity.this, "Database Error: " + databaseError.getCode(), Toast.LENGTH_SHORT).show();
             }
         });
-
-        zoomIn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                zoomLevel++;
-                camera = CameraUpdateFactory.newLatLngZoom(location, zoomLevel);
-                mMap.animateCamera(camera);
-            }
-        });
-
-        zoomOut.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                zoomLevel--;
-                camera = CameraUpdateFactory.newLatLngZoom(location, zoomLevel);
-                mMap.animateCamera(camera);
-            }
-        });
-
 
     }
 
