@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Polinema Family Locator</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_maps">Family Map</string>
+
+    <string name="settings">Settings</string>
+
+    <!-- Navigation titles -->
+    <string name="title_timeline">Timeline</string>
+    <string name="title_map">Map</string>
+    <string name="title_family">Family</string>
+    <string name="title_profile">Profile</string>
+
+
+    <string name="loading">Sabar Lurr...</string>
+
+    <string name="open_camera">ACCESS FINE LOCATION</string>
+    <string name="rationale_location">Aplikasi ini membutuhkan akses lokasi anda.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="status_dialog_title">Update Status Anda</string>
+    <string name="status_dialog_body_txt">Update status anda agar keluarga anda tahu dimana anda dan sedang apa.</string>
+    <string name="status_dialog_hint">Masukkan status</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="latest_known_location">Lokasi terakhir:</string>
+    <string name="waiting_network">Sabar Lurr</string>
+    <string name="connected">Connected</string>
+    <string name="sign_out">SIGN OUT</string>
+
+</resources>

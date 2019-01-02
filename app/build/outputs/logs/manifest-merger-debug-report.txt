@@ -1,0 +1,534 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+MERGED from [com.android.databinding:adapters:1.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/b018cab633ac64f71769c42358a07637/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/5687aba6ef58753cfa2e35b18f02602a/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:2:1-19:12
+MERGED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:2:1-19:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/core-0.9.4.4.aar/a0ee34988ba4675ff533e848e7245ac8/AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/a16f528bff3946565aa1f6ee2bb1d2c8/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c275f55a0e8ec30fedcd477c12a8206/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/663635c65963848aff09735ce88840b7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/430943f26916e1978ed20c29d86605d7/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2c82258215624a0d670d72266316a080/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/de3acdcb0f2a718e7a9e2ad513eed7cc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a4dafe1c50dcdcc3a6eae324b7926dd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/e40fd7b84b62b788c2e29acefad002a4/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/803d6879540d72afbf9804a426e2a904/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/8a41a9afcd09feb9c49ec6ecd9c79515/AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:transition:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/30f78c9efb7d46655f2c12ed8c62389c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/9cce7d2110f12373a5fa309e1d8ee3b8/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/ea454a8d057db411cf90f94bc2b6f112/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/e37a737e344775f1f8f3968dd1e4f236/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/ee5bef5f647befd278991adb2656e786/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/ea20959dfbd8baf3144dcef50d904b7d/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v13:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/da3520d747bccfc3a0583b10e55c25ed/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9bd9d2d7b6f23b92ccae865fe0f57422/AndroidManifest.xml:17:1-31:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/abe04eb759fdea52d6f1dd74760971b6/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/55e134e1590d08fda8ec4d66392e9212/AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.clans:fab:1.6.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/9895c76e3b19d053908e699d52b9fb23/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e5ba80436e7a77485415f7ba78fa6549/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2d73738eabd03b9c8892cb52cf8ee63/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ef88f2058cfea0bb572346b652b24781/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8c5148fd11d2e9109023a8ef0c68e211/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/200da7cca5f447a42c9fed14a7eb105f/AndroidManifest.xml:17:1-31:12
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:1-67:12
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:8:5-65:19
+MERGED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:29:5-20
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:13:5-17:19
+MERGED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:11:5-17:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/core-0.9.4.4.aar/a0ee34988ba4675ff533e848e7245ac8/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/core-0.9.4.4.aar/a0ee34988ba4675ff533e848e7245ac8/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c275f55a0e8ec30fedcd477c12a8206/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c275f55a0e8ec30fedcd477c12a8206/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/663635c65963848aff09735ce88840b7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/663635c65963848aff09735ce88840b7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2c82258215624a0d670d72266316a080/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2c82258215624a0d670d72266316a080/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/de3acdcb0f2a718e7a9e2ad513eed7cc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/de3acdcb0f2a718e7a9e2ad513eed7cc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a4dafe1c50dcdcc3a6eae324b7926dd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a4dafe1c50dcdcc3a6eae324b7926dd/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/e40fd7b84b62b788c2e29acefad002a4/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/e40fd7b84b62b788c2e29acefad002a4/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/8a41a9afcd09feb9c49ec6ecd9c79515/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/8a41a9afcd09feb9c49ec6ecd9c79515/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:transition:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/30f78c9efb7d46655f2c12ed8c62389c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/30f78c9efb7d46655f2c12ed8c62389c/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/ea454a8d057db411cf90f94bc2b6f112/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/ea454a8d057db411cf90f94bc2b6f112/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/ee5bef5f647befd278991adb2656e786/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/ee5bef5f647befd278991adb2656e786/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/ea20959dfbd8baf3144dcef50d904b7d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/ea20959dfbd8baf3144dcef50d904b7d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v13:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/da3520d747bccfc3a0583b10e55c25ed/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/da3520d747bccfc3a0583b10e55c25ed/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9bd9d2d7b6f23b92ccae865fe0f57422/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9bd9d2d7b6f23b92ccae865fe0f57422/AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/abe04eb759fdea52d6f1dd74760971b6/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/abe04eb759fdea52d6f1dd74760971b6/AndroidManifest.xml:9:5-20
+MERGED from [com.github.clans:fab:1.6.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/9895c76e3b19d053908e699d52b9fb23/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/9895c76e3b19d053908e699d52b9fb23/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e5ba80436e7a77485415f7ba78fa6549/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e5ba80436e7a77485415f7ba78fa6549/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2d73738eabd03b9c8892cb52cf8ee63/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2d73738eabd03b9c8892cb52cf8ee63/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ef88f2058cfea0bb572346b652b24781/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ef88f2058cfea0bb572346b652b24781/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8c5148fd11d2e9109023a8ef0c68e211/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8c5148fd11d2e9109023a8ef0c68e211/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/200da7cca5f447a42c9fed14a7eb105f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/200da7cca5f447a42c9fed14a7eb105f/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:13:9-40
+activity#xyz.elfanrodhian.myfamilylocator.activities.SplashActivity
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:theme
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:15:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:20:27-74
+activity#xyz.elfanrodhian.myfamilylocator.activities.MainActivity
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:23:9-26:59
+	android:label
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:25:13-56
+	android:theme
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:24:13-52
+activity#xyz.elfanrodhian.myfamilylocator.activities.LoginActivity
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:27:9-30:49
+	android:label
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:29:13-57
+	android:theme
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:30:13-46
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:28:13-53
+receiver#xyz.elfanrodhian.myfamilylocator.receivers.NetworkStateReceiver
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:32:19-65
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:34:17-78
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:34:25-75
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:35:25-76
+meta-data#com.google.android.geo.API_KEY
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:47:9-49:55
+	android:value
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:48:13-58
+activity#xyz.elfanrodhian.myfamilylocator.activities.MapsActivity
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:51:9-58:20
+	android:label
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:54:13-56
+	android:theme
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:52:13-52
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:55:13-57:92
+	android:value
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:57:17-89
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:56:17-63
+service#xyz.elfanrodhian.myfamilylocator.LocationTrackingService
+ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:60:9-63:40
+	android:enabled
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml:61:13-52
+uses-sdk
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/b018cab633ac64f71769c42358a07637/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/b018cab633ac64f71769c42358a07637/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/5687aba6ef58753cfa2e35b18f02602a/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/5687aba6ef58753cfa2e35b18f02602a/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/core-0.9.4.4.aar/a0ee34988ba4675ff533e848e7245ac8/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/core-0.9.4.4.aar/a0ee34988ba4675ff533e848e7245ac8/AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/a16f528bff3946565aa1f6ee2bb1d2c8/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/a16f528bff3946565aa1f6ee2bb1d2c8/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c275f55a0e8ec30fedcd477c12a8206/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c275f55a0e8ec30fedcd477c12a8206/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/663635c65963848aff09735ce88840b7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/663635c65963848aff09735ce88840b7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/430943f26916e1978ed20c29d86605d7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/430943f26916e1978ed20c29d86605d7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2c82258215624a0d670d72266316a080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2c82258215624a0d670d72266316a080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/de3acdcb0f2a718e7a9e2ad513eed7cc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/de3acdcb0f2a718e7a9e2ad513eed7cc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a4dafe1c50dcdcc3a6eae324b7926dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elfar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1a4dafe1c50dcdcc3a6eae324b7926dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/e40fd7b84b62b788c2e29acefad002a4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.1.aar/e40fd7b84b62b788c2e29acefad002a4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/803d6879540d72afbf9804a426e2a904/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-database-10.2.1.aar/803d6879540d72afbf9804a426e2a904/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/8a41a9afcd09feb9c49ec6ecd9c79515/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-location-10.2.1.aar/8a41a9afcd09feb9c49ec6ecd9c79515/AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/30f78c9efb7d46655f2c12ed8c62389c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/30f78c9efb7d46655f2c12ed8c62389c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/9cce7d2110f12373a5fa309e1d8ee3b8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.2.1.aar/9cce7d2110f12373a5fa309e1d8ee3b8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/ea454a8d057db411cf90f94bc2b6f112/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.1.aar/ea454a8d057db411cf90f94bc2b6f112/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/e37a737e344775f1f8f3968dd1e4f236/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.2.1.aar/e37a737e344775f1f8f3968dd1e4f236/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/ee5bef5f647befd278991adb2656e786/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.1.aar/ee5bef5f647befd278991adb2656e786/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/ea20959dfbd8baf3144dcef50d904b7d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/ea20959dfbd8baf3144dcef50d904b7d/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v13:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/da3520d747bccfc3a0583b10e55c25ed/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/da3520d747bccfc3a0583b10e55c25ed/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9bd9d2d7b6f23b92ccae865fe0f57422/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9bd9d2d7b6f23b92ccae865fe0f57422/AndroidManifest.xml:21:5-23:54
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/abe04eb759fdea52d6f1dd74760971b6/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/abe04eb759fdea52d6f1dd74760971b6/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/55e134e1590d08fda8ec4d66392e9212/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/55e134e1590d08fda8ec4d66392e9212/AndroidManifest.xml:19:5-43
+MERGED from [com.github.clans:fab:1.6.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/9895c76e3b19d053908e699d52b9fb23/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /home/elfar/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/9895c76e3b19d053908e699d52b9fb23/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e5ba80436e7a77485415f7ba78fa6549/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e5ba80436e7a77485415f7ba78fa6549/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2d73738eabd03b9c8892cb52cf8ee63/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2d73738eabd03b9c8892cb52cf8ee63/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ef88f2058cfea0bb572346b652b24781/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ef88f2058cfea0bb572346b652b24781/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8c5148fd11d2e9109023a8ef0c68e211/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8c5148fd11d2e9109023a8ef0c68e211/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/200da7cca5f447a42c9fed14a7eb105f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/200da7cca5f447a42c9fed14a7eb105f/AndroidManifest.xml:21:5-23:58
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+		ADDED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+		INJECTED from /media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c275f55a0e8ec30fedcd477c12a8206/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8c275f55a0e8ec30fedcd477c12a8206/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/663635c65963848aff09735ce88840b7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/663635c65963848aff09735ce88840b7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/430943f26916e1978ed20c29d86605d7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/430943f26916e1978ed20c29d86605d7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2c82258215624a0d670d72266316a080/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2c82258215624a0d670d72266316a080/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/de3acdcb0f2a718e7a9e2ad513eed7cc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/de3acdcb0f2a718e7a9e2ad513eed7cc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/30f78c9efb7d46655f2c12ed8c62389c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/30f78c9efb7d46655f2c12ed8c62389c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v13:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/da3520d747bccfc3a0583b10e55c25ed/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v13:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.1.aar/da3520d747bccfc3a0583b10e55c25ed/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9bd9d2d7b6f23b92ccae865fe0f57422/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9bd9d2d7b6f23b92ccae865fe0f57422/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e5ba80436e7a77485415f7ba78fa6549/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e5ba80436e7a77485415f7ba78fa6549/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2d73738eabd03b9c8892cb52cf8ee63/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2d73738eabd03b9c8892cb52cf8ee63/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ef88f2058cfea0bb572346b652b24781/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ef88f2058cfea0bb572346b652b24781/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8c5148fd11d2e9109023a8ef0c68e211/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8c5148fd11d2e9109023a8ef0c68e211/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/200da7cca5f447a42c9fed14a7eb105f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/200da7cca5f447a42c9fed14a7eb105f/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f941bc6ca739e3857e8bed24cca30ed0/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:11:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/ea20959dfbd8baf3144dcef50d904b7d/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.1.aar/ea20959dfbd8baf3144dcef50d904b7d/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.2.0.aar/01bf419f8513ea63565ab469afa87285/AndroidManifest.xml:15:13-58
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.3.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.1.aar/0da1df4e3d3227a0015313ac69d0dd4f/AndroidManifest.xml:13:13-86
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.2.1.aar/893f571126648e0b6500446edc31af53/AndroidManifest.xml:24:18-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.1.aar/5464f8f5df6fbf2d6f71f769f0eea5d5/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.1.aar/a27ad7717a3617e253ac372b5c21bb5a/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.1.aar/b77cb9605f25a5481994987d18602fb5/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.1.aar/ef61f8967aaff7bdb0fdafa25c80aef0/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:24:17-71
+permission#xyz.elfanrodhian.myfamilylocator.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:26:22-76
+uses-permission#xyz.elfanrodhian.myfamilylocator.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+xyz.elfanrodhian.myfamilylocator
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:33:27-58
+category#xyz.elfanrodhian.myfamilylocator
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.1.aar/ec139faea25c10529f49415afa83a9d8/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/elfar/.gradle/caches/transforms-1/files-1.1/firebase-common-10.2.1.aar/ae4f02754c3f9612b0cfce0e36b8c6fe/AndroidManifest.xml:6:79-143

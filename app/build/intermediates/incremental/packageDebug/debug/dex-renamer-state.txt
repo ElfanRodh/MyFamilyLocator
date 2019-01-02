@@ -1,0 +1,4 @@
+#Wed Jan 02 07:28:50 WIB 2019
+base.0=/media/elfar/RODHIAN/APK/MyFamilyLocator/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/media/elfar/RODHIAN/APK/MyFamilyLocator/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

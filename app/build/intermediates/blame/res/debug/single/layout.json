@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/elfar/RODHIAN/APK/MyFamilyLocator/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/elfar/RODHIAN/APK/MyFamilyLocator/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/media/elfar/RODHIAN/APK/MyFamilyLocator/app/src/main/res/layout/content_main.xml"
+    }
+]
